@@ -54,12 +54,11 @@
 .hex {
   font-weight: 700;
   text-transform: uppercase;
-  font-family: var(--mantine-font-family-monospace);
+
   font-size: rem(10px);
 }
 
 .index {
   font-size: var(--mantine-font-size-lg);
   font-weight: 700;
-  font-family: var(--docs-font-primary);
 }

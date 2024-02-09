@@ -33,7 +33,7 @@
 
 .title {
   color: light-dark(var(--mantine-color-black), var(--mantine-color-white));
-  font-family: var(--docs-font-primary);
+
   font-size: rem(44px);
   line-height: 1.2;
   font-weight: 900;

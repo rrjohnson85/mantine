@@ -19,7 +19,7 @@
 }
 
 .lightIcon {
-  color: var(--mantine-color-blue-7);
+  color: var(--mantine-color-purple-7);
 
   @mixin dark {
     display: none;

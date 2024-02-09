@@ -1,6 +1,5 @@
 [data-docs-inline-code] {
   & code {
-    font-family: var(--mantine-font-family-monospace);
     line-height: var(--mantine-line-height);
     padding: rem(2px) calc(var(--mantine-spacing-xs) / 2);
     border-radius: var(--mantine-radius-sm);

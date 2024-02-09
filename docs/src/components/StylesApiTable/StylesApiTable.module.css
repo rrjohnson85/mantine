@@ -13,7 +13,6 @@
 }
 
 .title {
-  font-family: var(--docs-font-primary);
   margin-bottom: var(--mantine-spacing-sm);
 
   @mixin light {

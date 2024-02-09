@@ -64,7 +64,7 @@
 
 .controlTitle {
   font-weight: 700;
-  font-family: var(--docs-font-primary);
+
   position: relative;
   z-index: 5;
 
@@ -80,7 +80,7 @@
 }
 
 .controlIcon {
-  color: light-dark(var(--mantine-color-blue-6), var(--mantine-color-blue-5));
+  color: light-dark(var(--mantine-color-purple-6), var(--mantine-color-purple-5));
   margin-right: var(--mantine-spacing-md);
 
   @mixin rtl {

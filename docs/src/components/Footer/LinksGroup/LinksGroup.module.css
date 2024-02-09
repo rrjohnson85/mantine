@@ -45,7 +45,7 @@
 .title {
   font-size: var(--mantine-font-size-lg);
   font-weight: 700;
-  font-family: var(--docs-font-primary);
+
   margin-bottom: calc(var(--mantine-spacing-sm) / 2);
 
   @mixin light {

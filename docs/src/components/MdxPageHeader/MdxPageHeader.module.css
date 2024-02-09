@@ -39,7 +39,6 @@
   font-size: rem(44px);
   margin-bottom: rem(5px);
   font-weight: 900;
-  font-family: var(--docs-font-primary);
 
   @media (max-width: $docs-mdx-breakpoint) {
     font-size: rem(32px);

@@ -16,7 +16,7 @@
   }
 
   &[data-active] {
-    background-color: var(--mantine-color-blue-light-hover);
+    background-color: var(--mantine-color-purple-light-hover);
 
     & > .icon {
       background: transparent;
@@ -36,8 +36,8 @@
   justify-content: center;
   padding: rem(4px);
   border-radius: var(--mantine-radius-md);
-  background-color: var(--mantine-color-blue-light-hover);
-  color: var(--mantine-color-blue-light-color);
+  background-color: var(--mantine-color-purple-light-hover);
+  color: var(--mantine-color-purple-light-color);
   width: rem(34px);
   height: rem(34px);
 }

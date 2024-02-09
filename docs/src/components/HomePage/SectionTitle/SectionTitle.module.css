@@ -3,7 +3,7 @@
 
   display: inline-block;
   position: relative;
-  font-family: var(--docs-font-primary);
+
   font-size: rem(42px);
   font-weight: 900;
   line-height: 1.1;

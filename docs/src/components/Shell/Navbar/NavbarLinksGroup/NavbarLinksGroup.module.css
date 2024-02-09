@@ -43,7 +43,7 @@
 .title {
   user-select: none;
   font-weight: 700;
-  font-family: var(--docs-font-primary);
+
   line-height: 1;
   padding-top: rem(4px);
   letter-spacing: rem(0.5px);
@@ -181,16 +181,16 @@
   }
 
   &[data-active] {
-    border-color: var(--mantine-color-blue-5) !important;
+    border-color: var(--mantine-color-purple-5) !important;
     font-weight: 500;
 
     @mixin light {
-      color: var(--mantine-color-blue-8);
-      background-color: var(--mantine-color-blue-0);
+      color: var(--mantine-color-purple-8);
+      background-color: var(--mantine-color-purple-0);
     }
 
     @mixin dark {
-      color: var(--mantine-color-blue-1);
+      color: var(--mantine-color-purple-1);
       background-color: rgba(24, 100, 171, 0.45);
     }
   }

@@ -75,6 +75,7 @@ export default function App({ Component, pageProps, router }: AppProps) {
       <GaScript />
       <FontsStyle />
       <DirectionProvider initialDirection="ltr" detectDirection={false}>
+        <h1>Hi</h1>
         <MantineProvider theme={theme} defaultColorScheme="light">
           <ShikiProvider loadShiki={loadShiki}>
             <Search />
